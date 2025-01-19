@@ -1,6 +1,1 @@
-#Check list (To-do List)
-
-Html
-Css
-Javascript
-Local Storage
+	•To-do list: HTML, CSS, JavaScript, and Local Storage.
